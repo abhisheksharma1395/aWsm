@@ -4,4 +4,4 @@
 	branch = sfbase
 [submodule "applications/wasm_apps"]
 	path = applications/wasm_apps
-	url = https://github.com/abhisheksharma1395/wasm_apps
+	url = https://github.com/abhisheksharma1395/wasm_apps.git
